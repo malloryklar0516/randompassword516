@@ -29,8 +29,12 @@ THEN the password is either displayed in an alert or written to the page
 # Deployment
 
 ## Deployment Appearance
+The following image shows the web application's appearance and functionality: 
+
+!["Password Generator Application".](./Assets/Images/password-generator-deployed-page.png)
 
 ## Deployed Page Link
+https://malloryklar0516.github.io/randompassword516/
 
 # Technologies Used
 CSS, Html, JavaScript
